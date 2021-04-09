@@ -4,16 +4,15 @@
     <item
         android:id="@+id/start"
         android:icon="@drawable/ic_android"
-        android:title="Start" />
+        android:title="@string/start_item" />
     <item
         android:id="@+id/bmi"
         android:icon="@drawable/ic_android"
-        android:title="BMI + kcal" />
+        android:title="@string/bmi_item" />
 
     <item
-        android:id="@+id/more"
+        android:id="@+id/food"
         android:icon="@drawable/ic_android"
-        android:title="Co jeść?" />
-
+        android:title="@string/food_item" />
 
 </menu>

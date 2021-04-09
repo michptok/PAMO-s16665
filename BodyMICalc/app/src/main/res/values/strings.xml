@@ -11,18 +11,16 @@
     <string name="input_gender_error">Uzupełnij płeć!</string>
     <string name="calculate">Oblicz</string>
     <string name="bmi_result">Wynik</string>
-    <string name="empty">...</string>
+    <string name="empty">-</string>
     <string name="input_weight_height_error">Uzupełnij wzrost i wagę!</string>
-    <string name="stage">...</string>
-    <string name="kcal">...</string>
+    <string name="stage">-</string>
+    <string name="kcal">-</string>
     <string name="female">K</string>
     <string name="male">M</string>
-<!--    <string name="stage1">wychudzenie</string>-->
-<!--    <string name="stage1">niedowaga</string>-->
-<!--    <string name="stage1">pożądana masa ciała</string>-->
-<!--    <string name="stage1">nadwaga</string>-->
-<!--    <string name="stage1">otyłość I st.</string>-->
-<!--    <string name="stage1">otyłość II st.</string>-->
-<!--    <string name="stage1">otyłość III st.</string>-->
-
+    <string name="index">Michał Ptok - s16665</string>
+    <string name="food_title">Co jeść w trakcie pandemii COVID19?</string>
+    <string name="start_item">Start</string>
+    <string name="bmi_item">BMI + kcal</string>
+    <string name="food_item">Co jeść?</string>
+    <string name="dunno">Nie wiem</string>
 </resources>
