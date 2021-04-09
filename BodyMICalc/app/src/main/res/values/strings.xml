@@ -1,15 +1,22 @@
 <resources>
     <string name="app_name">BodyMI Calc</string>
-    <string name="check_your_bmi">Sprawdź swój BMI</string>
+    <string name="check_your_bmi">Sprawdź swój BMI i zapotrzebowanie kcal</string>
     <string name="input_weight">Podaj wagę [kg]</string>
     <string name="input_weight_error">Uzupełnij wagę!</string>
     <string name="input_height">Podaj wzrost [cm]</string>
     <string name="input_height_error">Uzupełnij wzrost!</string>
+    <string name="input_age">Podaj wiek</string>
+    <string name="input_age_error">Uzupełnij wiek!</string>
+    <string name="input_gender">Podaj płeć</string>
+    <string name="input_gender_error">Uzupełnij płeć!</string>
     <string name="calculate">Oblicz</string>
-    <string name="bmi_result">Wynik BMI</string>
-    <string name="empty"></string>
+    <string name="bmi_result">Wynik</string>
+    <string name="empty">...</string>
     <string name="input_weight_height_error">Uzupełnij wzrost i wagę!</string>
-    <string name="stage1">...</string>
+    <string name="stage">...</string>
+    <string name="kcal">...</string>
+    <string name="female">K</string>
+    <string name="male">M</string>
 <!--    <string name="stage1">wychudzenie</string>-->
 <!--    <string name="stage1">niedowaga</string>-->
 <!--    <string name="stage1">pożądana masa ciała</string>-->
