@@ -95,7 +95,7 @@ public class QuizFragment extends Fragment {
                 if (result == 6) {
                     resultValue.setText("Wszystkie " + String.format("%d", result) + "! Gratulacje!");
                 } else {
-                    resultValue.setText(String.format("%d", result));
+                    resultValue.setText(String.format("%d", result) + "/6");
 
                 }
                 resultSection.setVisibility(View.VISIBLE);
