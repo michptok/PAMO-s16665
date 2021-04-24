@@ -22,5 +22,18 @@
     <string name="start_item">Start</string>
     <string name="bmi_item">BMI + kcal</string>
     <string name="food_item">Co jeść?</string>
-    <string name="dunno">Nie wiem</string>
-</resources>
+    <string name="chart_item">Wykres</string>
+    <string name="quiz_item">Quiz</string>
+    <string name="dunno">Codziennie: warzywa, owoce, naturalne probiotyki, chude mięso i kilogram makaronu kupionego na wiosnę 2020 roku</string>
+    <string name="quiz_title">COVID QUIZ</string>
+    <string name="q_1">1. COVID jest śmiertelnym zagrożeniem</string>
+    <string name="q_2">2. Dane na wykresie obok nie są zmyślone</string>
+    <string name="q_3">3. Znajomy bratanka pasierba wdowy sąsiadki ciotecznej jest wojskowym i ma dowody, że Bill Gates planuje inwazje COWInDowsa 19 z Księżyca</string>
+    <string name="q_4">4. Statystyczny Polak siedzący w fotelu jest wartościowym celem do sterowania za pomocą czipu szczepionkowego</string>
+    <string name="q_5">5. Rosja wypuściła 512 niedźwiedzi na ulice, żeby obywatele pozostali w domach</string>
+    <string name="q_6">6. Zapasy żywności i papieru toaletowego kupionego na wiosnę roku 2020 się faktycznie przydały</string>
+    <string name="answer_true">Prawda</string>
+    <string name="answer_false">Fałsz</string>
+    <string name="check_result">Sprawdź wyniki</string>
+    <string name="quizResultTitle">Poprawne odpowiedzi</string>
+    <string name="quizResultValue">-</string></resources>

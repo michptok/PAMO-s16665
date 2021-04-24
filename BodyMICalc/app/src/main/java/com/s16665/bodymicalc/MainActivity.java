@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         com.google.android.material.bottomnavigation.BottomNavigationView bottomNavigationView = findViewById(R.id.bottomNav);
+        bottomNavigationView.getMenu().getItem(0).setChecked(true);
         bottomNavigationView.setOnNavigationItemSelectedListener(navigationItemSelectedListener);
         getSupportFragmentManager().beginTransaction().replace(R.id.fragmentLayout, new StartFragment()).commit();
     }
@@ -34,6 +35,12 @@ public class MainActivity extends AppCompatActivity {
                     break;
                 case R.id.food:
                     selectedFragment = new FoodFragment();
+                    break;
+                case R.id.chart:
+                    selectedFragment = new ChartFragment();
+                    break;
+                case R.id.quiz:
+                    selectedFragment = new QuizFragment();
                     break;
             }
             getSupportFragmentManager().beginTransaction().replace(R.id.fragmentLayout, selectedFragment).commit();

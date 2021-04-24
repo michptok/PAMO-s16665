@@ -3,16 +3,26 @@
 
     <item
         android:id="@+id/start"
-        android:icon="@drawable/ic_android"
+        android:icon="@drawable/ic_round_home_24"
         android:title="@string/start_item" />
     <item
         android:id="@+id/bmi"
-        android:icon="@drawable/ic_android"
+        android:icon="@drawable/ic_round_calculate_24"
         android:title="@string/bmi_item" />
 
     <item
         android:id="@+id/food"
-        android:icon="@drawable/ic_android"
+        android:icon="@drawable/ic_round_food_bank_24"
         android:title="@string/food_item" />
+
+    <item
+        android:id="@+id/chart"
+        android:icon="@drawable/ic_round_pie_chart_24"
+        android:title="@string/chart_item" />
+
+    <item
+        android:id="@+id/quiz"
+        android:icon="@drawable/ic_round_coronavirus_24"
+        android:title="@string/quiz_item" />
 
 </menu>
